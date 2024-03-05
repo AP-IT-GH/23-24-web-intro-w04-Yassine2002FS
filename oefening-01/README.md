@@ -36,4 +36,7 @@
 ## 💡 vragen
 
 - Wat wilt de term "responsive" zeggen?
+    - Dat wilt zeggen dat als je scherm kleiner zou maken dat de website zich gaat aanpassen op de grootte van het scherm.
+    
 - Waarvoor dient het `<link>`-element?
+    - Die dient om naar andere bestanden te linken. Bv. Als je naar je stylesheet wilt linken doe je het via <link>.
