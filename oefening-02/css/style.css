@@ -4,8 +4,24 @@
     background-color: rgba(86, 61, 124, .15);
     border: 1px solid rgba(86, 61, 124, .2);
   }
-
-
+.color1 {
+  color: blue;
+}
+.color2 {
+  color: green;
+}
+.color3 {
+  color: aqua;
+}
+.color4 {
+  color: gold;
+}
+.color5 {
+  color: red;
+}
+.color6 {
+  color: white;
+}
 /* X-Small devices (portrait phones, less than 576px)
 No media query for `xs` since this is the default in Bootstrap */
 
@@ -23,6 +39,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1400px) {
-
-  
+  .color6 {
+    background-color: magenta;
+  }
 }
